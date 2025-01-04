@@ -1,6 +1,6 @@
 [![jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)](https://nextstepfinalproject.atlassian.net)
 
-# NextStep 🚀
+# Next Step 🚀
 
 The goal of this project is to provide users with a convenient and efficient gateway to the job-hunting world, helping them create a strong online employment presence.
 
